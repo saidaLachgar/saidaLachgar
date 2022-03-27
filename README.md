@@ -1,5 +1,5 @@
 <!-- Intro  -->
-<br><h3 align="center">
+<h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://saidalachgar.github.io">Saida</a> <img src="https://github.com/saidaLachgar/saidaLachgar/blob/main/etc/wave.gif?raw=true" width="14px"></b>
         </samp>
@@ -8,7 +8,7 @@
 <div align="center">
 
 ![LACHGAR Saida](https://github.com/saidaLachgar/saidaLachgar/blob/main/etc/github-poster.jpg?raw=true)
-</br>
+</br><br>
 I'm a Chaos Engineering Enthusiast, Open Source Contributor, and Professional Yak Shaver. I also like symfony and I'm exploring Cloud Tech 🎼 ☁️</br></br>
 </div>
 

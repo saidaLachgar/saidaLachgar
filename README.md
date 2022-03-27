@@ -33,6 +33,7 @@ BIO</br>
 <b>VIBING TO : 🎧 </b><br><br>
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=96gqhivzruyiy5iof4lzrzfxa)<br>
+<!-- <img src="https://github.com/saidaLachgar/saidaLachgar/blob/main/etc/spotify-recent.png?raw=true" width="400px"> -->
 </div><br>
 
 <!-- Footer -->

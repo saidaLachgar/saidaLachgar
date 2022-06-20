@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://saidalachgar.github.io">Saida</a> <img src="https://github.com/saidaLachgar/saidaLachgar/blob/main/etc/wave.gif?raw=true" width="14px"></b>
+                <b><a target="_blank" href="https://saidalachgar.github.io">Saida</a> <img src="https://github.com/saidaLachgar/saidaLachgar/blob/main/etc/wave.gif?raw=true" height="14"></b>
         </samp>
 </h3><br>
 

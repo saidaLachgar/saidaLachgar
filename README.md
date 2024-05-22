@@ -17,7 +17,6 @@ I'm a Chaos Engineering Enthusiast, Open Source Contributor, and Professional Ya
 <!-- Bio -->
 BIO</br>
 <!-- &emsp; 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!<br> -->
-&emsp; 💅 Pronouns: She/Her/Coder<br>
 &emsp; 🔭 Personal project for 2022: Improve my personnal skills</br>
 &emsp; ⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai<br>
 &emsp; 🌱 Currently learning angular, linux, docker<br>

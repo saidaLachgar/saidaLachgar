@@ -43,3 +43,8 @@ BIO</br>
         "Happy Coding! :octocat:"
     </p>
 </samp>
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saidaLachgar&exclude_days=Sun%2CSat&hide_current_streak=true)](#)
+
